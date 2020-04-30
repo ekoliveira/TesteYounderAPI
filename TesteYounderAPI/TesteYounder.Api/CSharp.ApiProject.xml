@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TesteYounder.ApiProject</name>
+    </assembly>
+    <members>
+        <member name="T:TesteYounder.ApiProject.Controllers.HomeController">
+            <summary />
+        </member>
+        <member name="M:TesteYounder.ApiProject.Controllers.HomeController.Index">
+            <summary />
+        </member>
+    </members>
+</doc>

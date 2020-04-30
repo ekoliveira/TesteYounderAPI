@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentNHibernate" Version="2.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TesteYounder.Application\TesteYounder.Application.csproj" />
+    <ProjectReference Include="..\TesteYounder.Domain\TesteYounder.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

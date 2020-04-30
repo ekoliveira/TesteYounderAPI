@@ -1,0 +1,8 @@
+﻿using AutoMapper;
+
+namespace TesteYounder.Infra.CrossCutting.AutoMapper
+{
+    public class InfraProfile : Profile
+    {
+    }
+}
