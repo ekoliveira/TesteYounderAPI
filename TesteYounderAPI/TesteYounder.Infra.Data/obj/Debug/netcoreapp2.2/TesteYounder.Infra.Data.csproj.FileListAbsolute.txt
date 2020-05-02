@@ -40,3 +40,17 @@ C:\Users\erick\Desktop\Teste\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\n
 C:\Users\erick\Desktop\Teste\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.csproj.CopyComplete
 C:\Users\erick\Desktop\Teste\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.dll
 C:\Users\erick\Desktop\Teste\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.pdb
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\bin\Debug\netcoreapp2.2\TesteYounder.Infra.Data.deps.json
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\bin\Debug\netcoreapp2.2\TesteYounder.Infra.Data.dll
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\bin\Debug\netcoreapp2.2\TesteYounder.Infra.Data.pdb
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\bin\Debug\netcoreapp2.2\TesteYounder.Application.dll
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\bin\Debug\netcoreapp2.2\TesteYounder.Domain.dll
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\bin\Debug\netcoreapp2.2\TesteYounder.Application.pdb
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\bin\Debug\netcoreapp2.2\TesteYounder.Domain.pdb
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.csprojAssemblyReference.cache
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.AssemblyInfo.cs
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.csproj.CopyComplete
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.dll
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Infra.Data\obj\Debug\netcoreapp2.2\TesteYounder.Infra.Data.pdb

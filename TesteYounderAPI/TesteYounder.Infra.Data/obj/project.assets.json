@@ -3395,11 +3395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.Data\\TesteYounder.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.Data\\TesteYounder.Infra.Data.csproj",
       "projectName": "TesteYounder.Infra.Data",
-      "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.Data\\TesteYounder.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.Data\\TesteYounder.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.Data\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3418,11 +3418,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Application\\TesteYounder.Application.csproj": {
-              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Application\\TesteYounder.Application.csproj"
+            "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Application\\TesteYounder.Application.csproj": {
+              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Application\\TesteYounder.Application.csproj"
             },
-            "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Domain\\TesteYounder.Domain.csproj": {
-              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Domain\\TesteYounder.Domain.csproj"
+            "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Domain\\TesteYounder.Domain.csproj": {
+              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Domain\\TesteYounder.Domain.csproj"
             }
           }
         }

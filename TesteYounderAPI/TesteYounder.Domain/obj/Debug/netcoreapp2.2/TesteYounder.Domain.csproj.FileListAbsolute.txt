@@ -23,3 +23,11 @@ C:\Users\erick\Desktop\Teste\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netco
 C:\Users\erick\Desktop\Teste\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netcoreapp2.2\TesteYounder.Domain.AssemblyInfo.cs
 C:\Users\erick\Desktop\Teste\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netcoreapp2.2\TesteYounder.Domain.dll
 C:\Users\erick\Desktop\Teste\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netcoreapp2.2\TesteYounder.Domain.pdb
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Domain\bin\Debug\netcoreapp2.2\TesteYounder.Domain.deps.json
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Domain\bin\Debug\netcoreapp2.2\TesteYounder.Domain.dll
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Domain\bin\Debug\netcoreapp2.2\TesteYounder.Domain.pdb
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netcoreapp2.2\TesteYounder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netcoreapp2.2\TesteYounder.Domain.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netcoreapp2.2\TesteYounder.Domain.AssemblyInfo.cs
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netcoreapp2.2\TesteYounder.Domain.dll
+C:\Users\erick\Desktop\Teste\Repos\TesteYounderAPI\TesteYounderAPI\TesteYounder.Domain\obj\Debug\netcoreapp2.2\TesteYounder.Domain.pdb

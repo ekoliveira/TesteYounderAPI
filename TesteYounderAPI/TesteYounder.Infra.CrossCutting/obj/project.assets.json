@@ -3507,11 +3507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\TesteYounder.Infra.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\TesteYounder.Infra.CrossCutting.csproj",
       "projectName": "TesteYounder.Infra.CrossCutting",
-      "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\TesteYounder.Infra.CrossCutting.csproj",
+      "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\TesteYounder.Infra.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3530,8 +3530,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.Data\\TesteYounder.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.Data\\TesteYounder.Infra.Data.csproj"
+            "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.Data\\TesteYounder.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.Data\\TesteYounder.Infra.Data.csproj"
             }
           }
         }

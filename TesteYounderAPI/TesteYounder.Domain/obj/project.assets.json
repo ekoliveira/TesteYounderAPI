@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Domain\\TesteYounder.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Domain\\TesteYounder.Domain.csproj",
       "projectName": "TesteYounder.Domain",
-      "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Domain\\TesteYounder.Domain.csproj",
+      "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Domain\\TesteYounder.Domain.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Domain\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14426,11 +14426,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Api\\TesteYounder.Api.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Api\\TesteYounder.Api.csproj",
       "projectName": "TesteYounder.Api",
-      "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Api\\TesteYounder.Api.csproj",
+      "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Api\\TesteYounder.Api.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Api\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14449,14 +14449,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Application\\TesteYounder.Application.csproj": {
-              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Application\\TesteYounder.Application.csproj"
+            "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Application\\TesteYounder.Application.csproj": {
+              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Application\\TesteYounder.Application.csproj"
             },
-            "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\TesteYounder.Infra.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\TesteYounder.Infra.CrossCutting.csproj"
+            "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\TesteYounder.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.CrossCutting\\TesteYounder.Infra.CrossCutting.csproj"
             },
-            "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.Migration\\TesteYounder.Infra.Migration.csproj": {
-              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\TesteYounderAPI\\TesteYounder.Infra.Migration\\TesteYounder.Infra.Migration.csproj"
+            "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.Migration\\TesteYounder.Infra.Migration.csproj": {
+              "projectPath": "C:\\Users\\erick\\Desktop\\Teste\\Repos\\TesteYounderAPI\\TesteYounderAPI\\TesteYounder.Infra.Migration\\TesteYounder.Infra.Migration.csproj"
             }
           }
         }

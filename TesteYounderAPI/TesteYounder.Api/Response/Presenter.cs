@@ -7,7 +7,7 @@ namespace TesteYounder.ApiProject.Response
 {
     public class Presenter : IOutputPort<CasoDeUsoResponseMessage>, IOutputPort<IEnumerable<CasoDeUsoResponseMessage>>
     {
-        public JsonContentResult ContentResult { get; }
+        public JsonContentResult ContentResult { get; set; }
 
         public Presenter()
         {
